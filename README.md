@@ -4,12 +4,7 @@
 
 **SimplePlot** is a microtool to plot simple data curves as text, like this:
 
-    ╭──────Gaussian───────╮
-    │        ▁▄▅▄▁        ├ max: 0.15
-    │      ▁▅█████▅▁      ├      0.075
-    │▁▁▁▂▃▆█████████▆▃▂▁▁▁├ min: 0
-    ╰┬─────┬─────┬───────┬╯
-     0     5     10      21
+![Teaser](plot.png)
 
 **SimplePlot** reads values from STDIN. Each value becomes a data point. The appearance can be changed using various options:
 
